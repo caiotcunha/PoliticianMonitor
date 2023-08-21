@@ -2,7 +2,11 @@
 
 # Membros
 Caio Teles Cunha - Fullstack
+
+
 Henrique Rotzen - Fullstack
+
+
 Kenji - Fullstack
 
 # Escopo
